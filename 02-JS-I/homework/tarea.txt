@@ -1,0 +1,15 @@
+Tarea de la clase 2
+
+Explicacion para niño de 12 años.
+
+Variable: una variable es como una caja, yo puedo guardar algo en esa caja que despues cuando yo la busque va a estar guardado ahi dentro. La variable funciona igual, yo guardo algo dentro de la variable y se que la variable cuando la busque va a tener lo que yo guarde.
+
+Strings: un strings es cuando yo guardo texto en el programa. para que el programa sepa que eso es un strings el texto que yo ponga tienen que empezar y terminar entre comillas "ejemplo".
+
+Funciones: las funciones son como un boton que yo preciono. una vez que yo le dije a la funcion que lo que quiero que haga, luego preciono ese boton (Escribo el nombre de la funcion) y ella se encarga de realizar su tarea.
+	Una tarea que le podemos dar puede ser saludar. pero como la funcion no sabe a quien saluda nosotros le vamos a dar esa informacion para que la funcion nos salude con el nombre. Esto se llama Argumento. Entonces nosotros llamamos a la funcion para que salude y a la ve le damos el dato del nombre de la persona a la que va a saludar.
+	Hay algo que se llama "RETURN" que es para guardar el resultado de un funcion. cuando yo uso esto le estoy diciendo a la funcion que la tarea que hizo la guarde para despues yo poderla usar en otra cosa en que lo necesite.
+
+Declaracion IF: Esto nos sirve para decirle a la computadora que hacer en determinadas ocaciones. cuando la funcion que tiene que hacer la computadora depende de los datos que yo le de, con el IF le vamos a decir que si algo cumple con los requisitos haga algo pero que si NO cumple con eso, entonces haga otra cosa.
+
+Valores Booleanos: esto se usa para cosas que solo pueden ser correctas o incorrectas. si yo te digo que la madera es transparente, todos sabemos que eso no es asi por lo tanto es falso (false). 

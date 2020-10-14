@@ -1,0 +1,9 @@
+Escribir las siguientes definiciones para que las entienda un niño de 12 años
+
+For: hace una funcion repetidas veces hasta que por una instruccion que le dimos se detiene. sirve para no tener que hacer cosa por sosa nosotros sino que eso lo hace repetidamente las veces que necesitemos.
+
+&&: esto es para cuando queremos comparar mas de una respuesta. solo va a funcionar cuando ambas respuestas sean correctas, si alguna de ellas o las 2 son incorrectas no va a hacer la funcion.
+
+||: tambien sirve para comparar respuestas pero con la diferencia que solo con que una de las dos respuestas sea correcta ya es motivo suficiente para que se ejecute la funcion. si ambas lo son lo ejecuta pero si ninguna lo es, no.
+
+!: esto es como dar la inversa de algo. por ejemplo si algo es true y le colocamos el ! adelante (!true), el resultado va a ser false. porque es lo contrario true
