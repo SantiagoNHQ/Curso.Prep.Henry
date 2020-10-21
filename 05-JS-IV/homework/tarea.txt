@@ -1,0 +1,11 @@
+Explicacion para niño de 12 años
+
+Objetos: los objetos son como los detalles de algo. Poniendo un ejemplo de autos se podrias decir que en un objeto yo podria poner los siguientes detallees. color: azul, cantidad de puertas: 4, motor: 1.8.
+
+Propiedades: las propiedades son juntamente lo que yo defino dentro de un objeto como en el ejemplo anterior.
+
+Metodo: un metodo es cuando dentro de las Propiedades de un objeto yo defino que se realice una funcion. 
+
+Bucle for in: un Bucle de este tipo lo que hace es ir objeto por obejto haciendo la tarea que yo le diga. la diferencia con el bucle for que ya vimos es que el otro va cambiando por un numero. En cambio este va objeto por objeto ya que los objetos no se definen por posicion con numeros como es el caso de los arrays.
+
+Notacion de puntos vs Notacion de corchetes: se comportan de forma parecida pero no son iguales. el puntos se usa para cuando tenemos que llamar o asignar de forma especifica a un objeto. pero si queremos que no sea especifico sino que dependa de una variable vamos a tener que usar los []. el punto toma todo de forma literal. en cambio los corchetes nos permiten llamar de forma literal o con variables. 
